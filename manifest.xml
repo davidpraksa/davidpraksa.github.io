@@ -10,7 +10,7 @@
   <HighResolutionIconUrl DefaultValue="https://davidpraksa.github.io/assets/signature365_logo.png"/>
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
   <AppDomains>
-    <AppDomain>https://www.contoso.com</AppDomain>
+    <AppDomain>https://davidpraksa.github.io</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Mailbox"/>
